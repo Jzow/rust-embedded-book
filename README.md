@@ -38,7 +38,7 @@
 
 ## 行为准则
 
-对该板条箱的贡献是根据 [Rust Code of Conduct][CoC] 该板条箱的维护者 [Resources team][team] 承诺：
+对该crate的贡献是根据[Rust Code of Conduct][CoC]该crate的维护者[Resources team][team]承诺：
 进行干预以维护该行为准则。
 
 [CoC]: CODE_OF_CONDUCT.md
